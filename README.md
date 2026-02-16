@@ -8,7 +8,7 @@ A student-led, mentor-supported global movement equipping high schoolers with et
 [![Stars](https://img.shields.io/github/stars/NextGenAI/nextgenai?style=social&label=Star)](https://github.com/NextGenAI/nextgenai)  
 [![Website](https://img.shields.io/badge/Visit%20Website-www.nextgenai.org-blue?style=flat&logo=google-chrome)](https://www.nextgenai.org)  
 [![Email](https://img.shields.io/badge/Email-contact@nextgenai.org-red?style=flat&logo=gmail)](mailto:contact@nextgenai.org)  
-[![X](https://img.shields.io/badge/Follow%20on%20X-black?style=flat&logo=x)](https://x.com/nextgenai_org) 
+
 <img src="https://media.licdn.com/dms/image/v2/D5612AQG_caoBM0QC1A/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1711567167008?e=2147483647&v=beta&t=IrpE-tRPaxBfrNfPUJzb8-n6NtwU6fxFdc2L6vPE9c4" alt="Young minds shaping the future of AI" width="800"/>
 
 **Since 2025** — Building equitable, ethical AI education for the next generation. 🚀
@@ -137,9 +137,7 @@ Flexible paths — combine for full impact!
 - Partnerships: partner@nextgenai.org  
 
 **Follow Us**  
-[![X](https://img.shields.io/badge/X-black?style=flat&logo=x)](https://x.com/nextgenai_org)  
-[![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook)](https://facebook.com/nextgenai)  
-[![Reddit](https://img.shields.io/badge/Reddit-orange?style=flat&logo=reddit)](https://reddit.com/r/nextgenai)
+[![Website](https://img.shields.io/badge/Visit%20Website-www.nextgenai.org-blue?style=flat&logo=google-chrome)](https://www.nextgenai.org) 
 
 <div align="center">
 
