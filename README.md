@@ -5,8 +5,7 @@
 **Empowering Young Thinkers for an AI-Powered Tomorrow**  
 A student-led, mentor-supported global movement equipping high schoolers with ethical AI skills, innovation, and worldwide collaboration.
 
-[![Stars](https://img.shields.io/github/stars/NextGenAI/nextgenai?style=social&label=Star)](https://github.com/aaryansamanta/nextgen-ai)  
-[![Website](https://img.shields.io/badge/Visit%20Website-www.nextgenai.org-blue?style=flat&logo=google-chrome)](https://www.nextgenai.org)  
+[![Website](https://img.shields.io/badge/Visit%20Website-www.nextgenai.org-blue?style=flat&logo=google-chrome)](https://nextgenai.org)  
 [![Email](https://img.shields.io/badge/Email-contact@nextgenai.org-red?style=flat&logo=gmail)](mailto:contact@nextgenai.org)  
 
 <img src="https://media.licdn.com/dms/image/v2/D5612AQG_caoBM0QC1A/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1711567167008?e=2147483647&v=beta&t=IrpE-tRPaxBfrNfPUJzb8-n6NtwU6fxFdc2L6vPE9c4" alt="Young minds shaping the future of AI" width="800"/>
