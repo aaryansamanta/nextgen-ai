@@ -45,7 +45,7 @@
               <i class="icon-wallet"></i>
             </div>
             <div class="text">
-              <h2>Our Mission</h2>
+              <h2><a href="/about.php#our-mission">Our Mission</a></h2>
               <p>Our Goal, Vision & Commitment</p>
             </div>
           </div>
@@ -54,7 +54,7 @@
               <i class="icon-heart"></i>
             </div>
             <div class="text">
-              <h2>Our Events & Impact</h2>
+              <h2><a href="/impact.php#our-impact">Our Events & Impact</a></h2>
               <p>Programs & Results</p>
             </div>
           </div>
@@ -63,7 +63,7 @@
               <i class="icon-graduation-cap"></i>
             </div>
             <div class="text">
-              <h2>Support Us</h2>
+              <h2><a href="/involved.php">Support Us</a></h2>
               <p>Volunteer, Partner or Donate</p>
             </div>
           </div>

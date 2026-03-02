@@ -162,7 +162,7 @@ if (isset($_GET['id']) && $_GET['id']) {
 
         <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
           <a href="leadership.php?id=5" class="probootstrap-team">
-            <img src="img/photo.png" alt="avatar" class="img-responsive">
+            <img src="img/PaulChan.jpg" alt="avatar" class="img-responsive">
             <div class="probootstrap-team-info">
               <h3>Dr. Paul Chan <span class="position">Honorary Advisor</span></h3>
             </div>
@@ -170,7 +170,7 @@ if (isset($_GET['id']) && $_GET['id']) {
         </div>
         <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
           <a href="leadership.php?id=6" class="probootstrap-team">
-            <img src="img/photo.png" alt="avatar" class="img-responsive">
+            <img src="img/LiChiehLin.jpg" alt="avatar" class="img-responsive">
             <div class="probootstrap-team-info">
               <h3>Dr. LiChieh Lin <span class="position">Honorary Advisor</span></h3>
             </div>
