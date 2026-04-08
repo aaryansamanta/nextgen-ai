@@ -5,16 +5,20 @@ if (isset($_GET['id']) && $_GET['id']) {
   $id = $_GET['id'];
   switch ($id) {
     case '1':
-      $avatar = 'AaryanSamanta';
+      $avatar = 'AaryanSamanta.png';
       break;
     case '2':
-      $avatar = 'ShaayonSamanta';
+      $avatar = 'ShaayonSamanta.png';
       break;
     case '3':
-      $avatar = 'LaurenceDang';
+      $avatar = 'LaurenceDang.png';
       break;
     case '4':
-      $avatar = 'CarlosFebrero';
+      $avatar = 'CarlosFebrero.png';
+    case '5':
+      $avatar = 'PaulChan.jpg';
+    case '6':
+      $avatar = 'LiChiehLin.jpg';
       break;
   }
 } else {
@@ -64,7 +68,7 @@ if (isset($_GET['id']) && $_GET['id']) {
     <div class="container">
       <div class="row">
         <div class="col-md-5 probootstrap-animate">
-          <p><img src="img/<?= $avatar ?>.png" alt="avatar" class="img-responsive"></p>
+          <p><img src="img/<?= $avatar ?>" alt="avatar" class="img-responsive"></p>
         </div>
         <?php if ($id === '1') { ?>
           <div class="col-md-7 col-md-push-1 probootstrap-animate">
@@ -75,7 +79,7 @@ if (isset($_GET['id']) && $_GET['id']) {
           </div>
         <?php } elseif ($id === '2') { ?>
           <div class="col-md-7 col-md-push-1 probootstrap-animate">
-            <h2>Shaayon Samanta</h2>
+            <h2>Shaayon</h2>
             <p><i>Vice President & Founder</i></p>
             <p>Shaayon serves as Vice President of the NextGenAI International Organization, an exceptional 6th grader passionately advancing its mission to empower young thinkers for an AI-driven future. A distinguished scholar, Shaayon achieved 3rd place nationally in Math Kangaroo, 6th place in MathLeague.org state competitions, and earned a spot as a national qualifier. Additionally, Shaayon received a USA AMC8 Certificate of Achievement and was a runner-up in the Faria Elementary School Spelling Bee.</p>
             <p>Driven by a deep curiosity for Artificial Intelligence, Computer Science, Advanced Mathematics, Human Anatomy, Genetics, History, and Music Theory, Shaayon demonstrates proficiency in Python, Java, and intermediate Spanish. Their accolades include the Math Abacus All-USA Calculation Silver Place and Gold Level in swimming, showcasing a remarkable blend of academic excellence and extracurricular achievement.</p>
@@ -136,7 +140,7 @@ if (isset($_GET['id']) && $_GET['id']) {
           <a href="leadership.php?id=2" class="probootstrap-team">
             <img src="img/ShaayonSamanta.png" alt="avatar" class="img-responsive">
             <div class="probootstrap-team-info">
-              <h3>Shaayon Samanta <span class="position">Vice President & Founder (Global AI Ambassador)</span></h3>
+              <h3>Shaayon <span class="position">Vice President & Founder (Global AI Ambassador)</span></h3>
             </div>
           </a>
         </div>

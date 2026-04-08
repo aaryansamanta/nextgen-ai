@@ -18,6 +18,28 @@
       <script src="js/vendor/html5shiv.min.js"></script>
       <script src="js/vendor/respond.min.js"></script>
     <![endif]-->
+  <script>
+    window.onload = function() {
+      const v1 = document.querySelector('#hero-video-1')
+      const v2 = document.querySelector('#hero-video-2')
+      const v3 = document.querySelector('#hero-video-3')
+      v1.addEventListener('ended', function() {
+        v1.style.visibility = 'hidden'
+        v2.style.visibility = 'visible'
+        v2.play()
+      })
+      v2.addEventListener('ended', function() {
+        v2.style.visibility = 'hidden'
+        v3.style.visibility = 'visible'
+        v3.play()
+      })
+      v3.addEventListener('ended', function() {
+        v3.style.visibility = 'hidden'
+        v1.style.visibility = 'visible'
+        v1.play()
+      })
+    }
+  </script>
 </head>
 
 <body>
@@ -26,7 +48,11 @@
   <?php require_once 'header.php'; ?>
 
   <section class="probootstrap-hero" style="position:relative;background-image: url(img/hero_bg_bw_1.jpg)" data-stellar-background-ratio="0.5">
-    <div style="position:absolute;top:0;left:0;width:100%;height:100%;"><video src="video/hero.mp4" preload="auto" autoplay loop muted disablepictureinpicture style="width:100%;height:100%;object-fit:cover;"></video></div>
+    <div style="position:absolute;top:0;left:0;width:100%;height:100%;">
+      <video id="hero-video-1" src="video/hero.mp4" preload="auto" autoplay muted style="width:100%;height:100%;object-fit:cover;position:absolute;visibility:visible"></video>
+      <video id="hero-video-2" src="video/hero2.mp4" preload="auto" muted style="width:100%;height:100%;object-fit:cover;position:absolute;visibility:hidden"></video>
+      <video id="hero-video-3" src="video/hero3.mp4" preload="auto" muted style="width:100%;height:100%;object-fit:cover;position:absolute;visibility:hidden"></video>
+    </div>
     <div class="container">
       <div class="row">
         <div class="col-md-12">
@@ -77,7 +103,7 @@
       <div class="row">
         <div class="col-md-12 text-center section-heading probootstrap-animate" data-animate-effect="fadeIn">
           <h2>Global AI Ambassador Taiwan Roadshow</h2>
-          <p class="lead">Under the visionary leadership of Aaryan Samanta (Founder & Chief, Global AI Ambassador) and Shaayon Samanta (Global AI Ambassador), two students from Legend College Preparatory (LCP), a transformative Taiwan exchange program ignited enthusiasm and innovation. Their dedication drove three key outcomes:</p>
+          <p class="lead">Under the visionary leadership of Aaryan Samanta (Founder & Chief, Global AI Ambassador) and Shaayon (Global AI Ambassador), two students from Legend College Preparatory (LCP), a transformative Taiwan exchange program ignited enthusiasm and innovation. Their dedication drove three key outcomes:</p>
         </div>
       </div>
       <div class="row">
@@ -152,7 +178,7 @@
               <img src="img/ShaayonSamanta.png" alt="NextGenAI" class="img-responsive">
             </figure>
             <div class="text">
-              <h3><a href="leadership.php?id=2">Shaayon Samanta</a></h3>
+              <h3><a href="leadership.php?id=2">Shaayon</a></h3>
               <p class="donated">Vice President & Founder (Global AI Ambassador)</p>
             </div>
           </div>

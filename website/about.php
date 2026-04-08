@@ -76,7 +76,7 @@
           <a href="leadership.php?id=2" class="probootstrap-team">
             <img src="img/ShaayonSamanta.png" alt="avatar" class="img-responsive">
             <div class="probootstrap-team-info">
-              <h3>Shaayon Samanta <span class="position">Vice President & Founder (Global AI Ambassador)</span></h3>
+              <h3>Shaayon <span class="position">Vice President & Founder (Global AI Ambassador)</span></h3>
             </div>
           </a>
         </div>
