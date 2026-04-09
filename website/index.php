@@ -80,7 +80,7 @@
               <i class="icon-heart"></i>
             </div>
             <div class="text">
-              <h2><a href="/impact.php#our-impact">Our Events & Impact</a></h2>
+              <h2><a href="/programs.php#events">Our Events</a> <span style="color:#fff">&</span> <a href="/impact.php#our-impact">Impact</a></h2>
               <p>Programs & Results</p>
             </div>
           </div>

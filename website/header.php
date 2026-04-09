@@ -26,6 +26,7 @@
                     <a href="programs.php">Programs</a>
                     <ul class="dropdown-menu">
                         <li><a href="/programs.php#core-tracks">Core Tracks</a></li>
+                        <li><a href="/programs.php#events">Events</a></li>
                         <li><a href="/programs.php#how-we-collaborate">How We Collaborate</a></li>
                     </ul>
                 </li>
