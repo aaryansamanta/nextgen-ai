@@ -187,183 +187,23 @@
       <h2 class="text-center">Our Events</h2>
       <ul class="timeline">
         <li>
-          <div class="timeline-date"><span>1/20/25</span></div>
+          <div class="timeline-date"><span></span></div>
           <div class="timeline-point"></div>
           <div class="timeline-content">
             <div class="timeline-title">
-              <h6>Vision defined</h6>
+              <h6>NextGenAI Dialog Series</h6>
             </div>
-            <p>Vision defined</p>
+            <p>35+ 台湾学生家长</p>
           </div>
         </li>
         <li>
-          <div class="timeline-date"><span>3/15/25</span></div>
+          <div class="timeline-date"><span>6/13/26</span></div>
           <div class="timeline-point"></div>
           <div class="timeline-content">
             <div class="timeline-title">
-              <h6>NextGenAI ideation finalized</h6>
+              <h6>Learn AI by Building AI — Session 7</h6>
             </div>
-            <p>NextGenAI ideation finalized</p>
-          </div>
-        </li>
-        <li>
-          <div class="timeline-date"><span>4/10/25</span></div>
-          <div class="timeline-point"></div>
-          <div class="timeline-content">
-            <div class="timeline-title">
-              <h6>Global Ambassador model created</h6>
-            </div>
-            <p>Global Ambassador model created</p>
-          </div>
-        </li>
-        <li>
-          <div class="timeline-date"><span>8/10/25</span></div>
-          <div class="timeline-point"></div>
-          <div class="timeline-content">
-            <div class="timeline-title">
-              <h6>NextGenAI.org launched (v1)</h6>
-            </div>
-            <p>NextGenAI.org launched (v1)</p>
-          </div>
-        </li>
-        <li>
-          <div class="timeline-date"><span>8/10/25–8/13/25</span></div>
-          <div class="timeline-point"></div>
-          <div class="timeline-content">
-            <div class="timeline-title">
-              <h6>Taiwan Roadshow + STUST MOU signed</h6>
-            </div>
-            <p>Taiwan Roadshow + STUST MOU signed</p>
-          </div>
-        </li>
-        <li>
-          <div class="timeline-date"><span>9/16/25</span></div>
-          <div class="timeline-point"></div>
-          <div class="timeline-content">
-            <div class="timeline-title">
-              <h6>Disease–Symptom EDA research exploration</h6>
-            </div>
-            <p>Disease–Symptom EDA research exploration</p>
-          </div>
-        </li>
-        <li>
-          <div class="timeline-date"><span>10/5/25</span></div>
-          <div class="timeline-point"></div>
-          <div class="timeline-content">
-            <div class="timeline-title">
-              <h6>Accelerated AI Learning Track launched</h6>
-            </div>
-            <p>Accelerated AI Learning Track launched</p>
-          </div>
-        </li>
-        <li>
-          <div class="timeline-date"><span>10/27/25</span></div>
-          <div class="timeline-point"></div>
-          <div class="timeline-content">
-            <div class="timeline-title">
-              <h6>AI Social Impact Track launched</h6>
-            </div>
-            <p>AI Social Impact Track launched</p>
-          </div>
-        </li>
-        <li>
-          <div class="timeline-date"><span>11/06/25–11/10/25</span></div>
-          <div class="timeline-point"></div>
-          <div class="timeline-content">
-            <div class="timeline-title">
-              <h6>Taiwan Roadshow</h6>
-            </div>
-            <p>Taiwan Roadshow</p>
-          </div>
-        </li>
-        <li>
-          <div class="timeline-date"><span>12/19/25</span></div>
-          <div class="timeline-point"></div>
-          <div class="timeline-content">
-            <div class="timeline-title">
-              <h6>MultiAgent AI Pilot kickoff</h6>
-            </div>
-            <p>MultiAgent AI Pilot kickoff</p>
-          </div>
-        </li>
-        <li>
-          <div class="timeline-date"><span>12/27/25</span></div>
-          <div class="timeline-point"></div>
-          <div class="timeline-content">
-            <div class="timeline-title">
-              <h6>Learn AI by Building AI — Session 1</h6>
-            </div>
-            <p>Learn AI by Building AI — Session 1</p>
-          </div>
-        </li>
-        <li>
-          <div class="timeline-date"><span>1/3/26</span></div>
-          <div class="timeline-point"></div>
-          <div class="timeline-content">
-            <div class="timeline-title">
-              <h6>Learn AI by Building AI — Session 2</h6>
-            </div>
-            <p>Learn AI by Building AI — Session 2</p>
-          </div>
-        </li>
-        <li>
-          <div class="timeline-date"><span>2/14/26</span></div>
-          <div class="timeline-point"></div>
-          <div class="timeline-content">
-            <div class="timeline-title">
-              <h6>Learn AI by Building AI — Session 3</h6>
-            </div>
-            <p>Learn AI by Building AI — Session 3</p>
-          </div>
-        </li>
-        <li>
-          <div class="timeline-date"><span>3/21/26</span></div>
-          <div class="timeline-point"></div>
-          <div class="timeline-content">
-            <div class="timeline-title">
-              <h6>Learn AI by Building AI — Session 4</h6>
-            </div>
-            <p>Learn AI by Building AI — Session 4</p>
-          </div>
-        </li>
-        <li>
-          <div class="timeline-date"><span>4/9/26</span></div>
-          <div class="timeline-point"></div>
-          <div class="timeline-content">
-            <div class="timeline-title">
-              <h6>UC Berkeley Student Innovation Showcase</h6>
-            </div>
-            <p>UC Berkeley Student Innovation Showcase</p>
-          </div>
-        </li>
-        <li>
-          <div class="timeline-date"><span>4/18/26</span></div>
-          <div class="timeline-point"></div>
-          <div class="timeline-content">
-            <div class="timeline-title">
-              <h6>Learn AI by Building AI — Session 5</h6>
-            </div>
-            <p>Learn AI by Building AI — Session 5</p>
-          </div>
-        </li>
-        <li>
-          <div class="timeline-date"><span>4/22/26</span></div>
-          <div class="timeline-point"></div>
-          <div class="timeline-content">
-            <div class="timeline-title">
-              <h6>Impact milestone: 100+ participants, 2 countries, 2 institutional partnerships</h6>
-            </div>
-            <p>Impact milestone: 100+ participants, 2 countries, 2 institutional partnerships</p>
-          </div>
-        </li>
-        <li>
-          <div class="timeline-date"><span>5/23/26</span></div>
-          <div class="timeline-point"></div>
-          <div class="timeline-content">
-            <div class="timeline-title">
-              <h6>Learn AI by Building AI — Session 6</h6>
-            </div>
-            <p>Learn AI by Building AI — Session 6</p>
+            <p>Learn AI by Building AI — Session 7</p>
           </div>
         </li>
         <li>
@@ -377,13 +217,183 @@
           </div>
         </li>
         <li>
-          <div class="timeline-date"><span>6/13/26</span></div>
+          <div class="timeline-date"><span>5/23/26</span></div>
           <div class="timeline-point"></div>
           <div class="timeline-content">
             <div class="timeline-title">
-              <h6>Learn AI by Building AI — Session 7</h6>
+              <h6>Learn AI by Building AI — Session 6</h6>
             </div>
-            <p>Learn AI by Building AI — Session 7</p>
+            <p>Learn AI by Building AI — Session 6</p>
+          </div>
+        </li>
+        <li>
+          <div class="timeline-date"><span>4/22/26</span></div>
+          <div class="timeline-point"></div>
+          <div class="timeline-content">
+            <div class="timeline-title">
+              <h6>Impact milestone: 100+ participants, 2 countries, 2 institutional partnerships</h6>
+            </div>
+            <p>Impact milestone: 100+ participants, 2 countries, 2 institutional partnerships</p>
+          </div>
+        </li>
+        <li>
+          <div class="timeline-date"><span>4/18/26</span></div>
+          <div class="timeline-point"></div>
+          <div class="timeline-content">
+            <div class="timeline-title">
+              <h6>Learn AI by Building AI — Session 5</h6>
+            </div>
+            <p>Learn AI by Building AI — Session 5</p>
+          </div>
+        </li>
+        <li>
+          <div class="timeline-date"><span>4/9/26</span></div>
+          <div class="timeline-point"></div>
+          <div class="timeline-content">
+            <div class="timeline-title">
+              <h6>UC Berkeley Student Innovation Showcase</h6>
+            </div>
+            <p>UC Berkeley Student Innovation Showcase</p>
+          </div>
+        </li>
+        <li>
+          <div class="timeline-date"><span>3/21/26</span></div>
+          <div class="timeline-point"></div>
+          <div class="timeline-content">
+            <div class="timeline-title">
+              <h6>Learn AI by Building AI — Session 4</h6>
+            </div>
+            <p>Learn AI by Building AI — Session 4</p>
+          </div>
+        </li>
+        <li>
+          <div class="timeline-date"><span>2/14/26</span></div>
+          <div class="timeline-point"></div>
+          <div class="timeline-content">
+            <div class="timeline-title">
+              <h6>Learn AI by Building AI — Session 3</h6>
+            </div>
+            <p>Learn AI by Building AI — Session 3</p>
+          </div>
+        </li>
+        <li>
+          <div class="timeline-date"><span>1/3/26</span></div>
+          <div class="timeline-point"></div>
+          <div class="timeline-content">
+            <div class="timeline-title">
+              <h6>Learn AI by Building AI — Session 2</h6>
+            </div>
+            <p>Learn AI by Building AI — Session 2</p>
+          </div>
+        </li>
+        <li>
+          <div class="timeline-date"><span>12/27/25</span></div>
+          <div class="timeline-point"></div>
+          <div class="timeline-content">
+            <div class="timeline-title">
+              <h6>Learn AI by Building AI — Session 1</h6>
+            </div>
+            <p>Learn AI by Building AI — Session 1</p>
+          </div>
+        </li>
+        <li>
+          <div class="timeline-date"><span>12/19/25</span></div>
+          <div class="timeline-point"></div>
+          <div class="timeline-content">
+            <div class="timeline-title">
+              <h6>MultiAgent AI Pilot kickoff</h6>
+            </div>
+            <p>MultiAgent AI Pilot kickoff</p>
+          </div>
+        </li>
+        <li>
+          <div class="timeline-date"><span>11/06/25–11/10/25</span></div>
+          <div class="timeline-point"></div>
+          <div class="timeline-content">
+            <div class="timeline-title">
+              <h6>Taiwan Roadshow</h6>
+            </div>
+            <p>Taiwan Roadshow</p>
+          </div>
+        </li>
+        <li>
+          <div class="timeline-date"><span>10/27/25</span></div>
+          <div class="timeline-point"></div>
+          <div class="timeline-content">
+            <div class="timeline-title">
+              <h6>AI Social Impact Track launched</h6>
+            </div>
+            <p>AI Social Impact Track launched</p>
+          </div>
+        </li>
+        <li>
+          <div class="timeline-date"><span>10/5/25</span></div>
+          <div class="timeline-point"></div>
+          <div class="timeline-content">
+            <div class="timeline-title">
+              <h6>Accelerated AI Learning Track launched</h6>
+            </div>
+            <p>Accelerated AI Learning Track launched</p>
+          </div>
+        </li>
+        <li>
+          <div class="timeline-date"><span>9/16/25</span></div>
+          <div class="timeline-point"></div>
+          <div class="timeline-content">
+            <div class="timeline-title">
+              <h6>Disease–Symptom EDA research exploration</h6>
+            </div>
+            <p>Disease–Symptom EDA research exploration</p>
+          </div>
+        </li>
+        <li>
+          <div class="timeline-date"><span>8/10/25–8/13/25</span></div>
+          <div class="timeline-point"></div>
+          <div class="timeline-content">
+            <div class="timeline-title">
+              <h6>Taiwan Roadshow + STUST MOU signed</h6>
+            </div>
+            <p>Taiwan Roadshow + STUST MOU signed</p>
+          </div>
+        </li>
+        <li>
+          <div class="timeline-date"><span>8/10/25</span></div>
+          <div class="timeline-point"></div>
+          <div class="timeline-content">
+            <div class="timeline-title">
+              <h6>NextGenAI.org launched (v1)</h6>
+            </div>
+            <p>NextGenAI.org launched (v1)</p>
+          </div>
+        </li>
+        <li>
+          <div class="timeline-date"><span>4/10/25</span></div>
+          <div class="timeline-point"></div>
+          <div class="timeline-content">
+            <div class="timeline-title">
+              <h6>Global Ambassador model created</h6>
+            </div>
+            <p>Global Ambassador model created</p>
+          </div>
+        </li>
+        <li>
+          <div class="timeline-date"><span>3/15/25</span></div>
+          <div class="timeline-point"></div>
+          <div class="timeline-content">
+            <div class="timeline-title">
+              <h6>NextGenAI ideation finalized</h6>
+            </div>
+            <p>NextGenAI ideation finalized</p>
+          </div>
+        </li>
+        <li>
+          <div class="timeline-date"><span>1/20/25</span></div>
+          <div class="timeline-point"></div>
+          <div class="timeline-content">
+            <div class="timeline-title">
+              <h6>Vision defined</h6>
+            </div>
+            <p>Vision defined</p>
           </div>
         </li>
       </ul>
