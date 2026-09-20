@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="website/img/logo@2x.png" alt="NextGenAI logo" width="260"/>
+<img src="docs/banner.png" alt="NextGenAI International Organization — Empowering Young Thinkers for an AI-Powered Tomorrow" width="100%"/>
+
+<br/>
 
 # NextGenAI 🌟
 
@@ -116,6 +118,7 @@ nextgen-ai/
 │   ├── GET_INVOLVED.md
 │   ├── LEADERSHIP.md
 │   ├── PARTNERS.md
+│   ├── banner.png
 │   └── hero-banner.gif
 ├── .github/           # Issue & PR templates
 ├── CONTRIBUTING.md
